@@ -111,5 +111,10 @@
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"MacNoEditor",
+		"TVOS"
 	]
 }
