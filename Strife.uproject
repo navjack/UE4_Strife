@@ -111,5 +111,9 @@
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
