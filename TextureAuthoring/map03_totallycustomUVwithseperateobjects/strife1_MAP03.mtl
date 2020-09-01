@@ -1,0 +1,359 @@
+# MTL for strife1.wad, map MAP03
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl BED01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BED01.PNG
+
+newmtl BLACK01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BLACK01.PNG
+
+newmtl BOXCOM01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BOXCOM01.PNG
+
+newmtl BOXCOM02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BOXCOM02.PNG
+
+newmtl BOXWOD02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BOXWOD02.PNG
+
+newmtl BOXWOD03
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BOXWOD03.PNG
+
+newmtl BRKGRY01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BRKGRY01.PNG
+
+newmtl BRKGRY07
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BRKGRY07.PNG
+
+newmtl BRKGRY17
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\BRKGRY17.PNG
+
+newmtl CAUSHN01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\CAUSHN01.PNG
+
+newmtl COMP01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\COMP01.PNG
+
+newmtl COMP05
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\COMP05.PNG
+
+newmtl COMP09
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\COMP09.PNG
+
+newmtl COMP13
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\COMP13.PNG
+
+newmtl COMP17
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\COMP17.PNG
+
+newmtl CONCRT01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\CONCRT01.PNG
+
+newmtl CONCRT03
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\CONCRT03.PNG
+
+newmtl CONCRT17
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\CONCRT17.PNG
+
+newmtl DORTRK02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\DORTRK02.PNG
+
+newmtl DORWS02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\DORWS02.PNG
+
+newmtl ELEVTR04
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\ELEVTR04.PNG
+
+newmtl FTLOC01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\FTLOC01.PNG
+
+newmtl GRATE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\GRATE01.PNG
+
+newmtl LITE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\LITE01.PNG
+
+newmtl LITE02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\LITE02.PNG
+
+newmtl MEDIC01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\MEDIC01.PNG
+
+newmtl P_RSCR4
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\P_RSCR4.PNG
+
+newmtl PLASTR08
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\PLASTR08.PNG
+
+newmtl REBFLAG
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\REBFLAG.PNG
+
+newmtl REBFLAG1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\REBFLAG1.PNG
+
+newmtl REBFLAG2
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\REBFLAG2.PNG
+
+newmtl SHUTTR01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\SHUTTR01.PNG
+
+newmtl SIGN09
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\SIGN09.PNG
+
+newmtl SIGN10
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\SIGN10.PNG
+
+newmtl SIGN11
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\SIGN11.PNG
+
+newmtl SIGN20
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\SIGN20.PNG
+
+newmtl STAIR01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\STAIR01.PNG
+
+newmtl STAIR05
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\STAIR05.PNG
+
+newmtl SWLITE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\SWLITE01.PNG
+
+newmtl TRAMJON
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\TRAMJON.PNG
+
+newmtl WALCAV01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALCAV01.PNG
+
+newmtl WALCAV02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALCAV02.PNG
+
+newmtl WALGRY06
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALGRY06.PNG
+
+newmtl WALSTN01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALSTN01.PNG
+
+newmtl WALTEK07
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK07.PNG
+
+newmtl WALTEK09
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK09.PNG
+
+newmtl WALTEK10
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK10.PNG
+
+newmtl WALTEK11
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK11.PNG
+
+newmtl WALTEK12
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK12.PNG
+
+newmtl WALTEK14
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK14.PNG
+
+newmtl WALTEK15
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WALTEK15.PNG
+
+newmtl WOOD01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\WOOD01.PNG
+
+newmtl F_BASHXL
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_BASHXL.PNG
+
+newmtl F_BIGSTN
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_BIGSTN.PNG
+
+newmtl F_BRKTOP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_BRKTOP.PNG
+
+newmtl F_CAUSHN
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_CAUSHN.PNG
+
+newmtl F_CAVE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_CAVE01.PNG
+
+newmtl F_CLOTH1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_CLOTH1.PNG
+
+newmtl F_CONCRP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_CONCRP.PNG
+
+newmtl F_DECK
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_DECK.PNG
+
+newmtl F_ELTOP2
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_ELTOP2.PNG
+
+newmtl F_FLKWHT
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_FLKWHT.PNG
+
+newmtl F_FOMICA
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_FOMICA.PNG
+
+newmtl F_GDCONC
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_GDCONC.PNG
+
+newmtl F_GIRDER
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_GIRDER.PNG
+
+newmtl F_GLITE1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_GLITE1.PNG
+
+newmtl F_KEYBRD
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_KEYBRD.PNG
+
+newmtl F_LIGHT1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_LIGHT1.PNG
+
+newmtl F_NAILWD
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_NAILWD.PNG
+
+newmtl F_PIPING
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_PIPING.PNG
+
+newmtl F_PLATIN
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_PLATIN.PNG
+
+newmtl F_PLYWOD
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_PLYWOD.PNG
+
+newmtl F_REDROK
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_REDROK.PNG
+
+newmtl F_RSTDEK
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_RSTDEK.PNG
+
+newmtl F_SHNMTL
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_SHNMTL.PNG
+
+newmtl F_STLT01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_STLT01.PNG
+
+newmtl F_STLT02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_STLT02.PNG
+
+newmtl F_STNTOP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_STNTOP.PNG
+
+newmtl F_TECH01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_TECH01.PNG
+
+newmtl F_TELE1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_TELE1.PNG
+
+newmtl F_TELE2
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_TELE2.PNG
+
+newmtl F_TKSCRN
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_TKSCRN.PNG
+
+newmtl F_TOPPER
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_TOPPER.PNG
+
+newmtl F_UNDOOR
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_UNDOOR.PNG
+
+newmtl F_WATR03
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_WATR03.PNG
+
+newmtl F_WBOXTP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_WBOXTP.PNG
+
+newmtl F_WHTECH
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_WHTECH.PNG
+
+newmtl F_WOOD01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\F_WOOD01.PNG
+
+newmtl P_SPLATR
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New folder\P_SPLATR.PNG
+
