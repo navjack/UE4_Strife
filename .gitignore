@@ -91,4 +91,8 @@ Build/Android/res/*
 Build/Android/res/*/*
 !Build/Android/res/*/*.png
 
+# Don't ignore obj files in authoring
+!TextureAuthoring/**/*.obj
+!ObjectAuthoring/**/*.obj
+
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
