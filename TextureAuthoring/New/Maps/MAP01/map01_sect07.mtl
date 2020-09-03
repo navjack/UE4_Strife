@@ -1,0 +1,31 @@
+# MTL for strife1.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl BRKGRY01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKGRY01.PNG
+
+newmtl IRON06
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\IRON06.PNG
+
+newmtl MOSWAL03
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\MOSWAL03.PNG
+
+newmtl WALCAV01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\WALCAV01.PNG
+
+newmtl F_CAVE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_CAVE01.PNG
+
+newmtl F_SKY001
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_SKY001.PNG
+
+newmtl F_WATR03
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_WATR03.PNG
+

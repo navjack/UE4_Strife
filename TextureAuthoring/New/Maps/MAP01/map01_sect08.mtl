@@ -1,0 +1,139 @@
+# MTL for strife1.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl BANR11
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BANR11.PNG
+
+newmtl BED01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BED01.PNG
+
+newmtl BRKGRY01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKGRY01.PNG
+
+newmtl BRKGRY17
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKGRY17.PNG
+
+newmtl COMP17
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\COMP17.PNG
+
+newmtl CONCRT01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\CONCRT01.PNG
+
+newmtl DORMS02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\DORMS02.PNG
+
+newmtl DORTRK02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\DORTRK02.PNG
+
+newmtl DORWS01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\DORWS01.PNG
+
+newmtl DORWS02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\DORWS02.PNG
+
+newmtl ELEVTR04
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\ELEVTR04.PNG
+
+newmtl IRON05
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\IRON05.PNG
+
+newmtl SWFORC01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\SWFORC01.PNG
+
+newmtl SWLITE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\SWLITE01.PNG
+
+newmtl TRAMJON
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\TRAMJON.PNG
+
+newmtl WALTEK09
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\WALTEK09.PNG
+
+newmtl WALTEK11
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\WALTEK11.PNG
+
+newmtl WALTEK14
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\WALTEK14.PNG
+
+newmtl WOODNL1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\WOODNL1.PNG
+
+newmtl F_BASHXL
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_BASHXL.PNG
+
+newmtl F_BRKTOP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_BRKTOP.PNG
+
+newmtl F_DECK
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_DECK.PNG
+
+newmtl F_DIRT02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_DIRT02.PNG
+
+newmtl F_GDCONC
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_GDCONC.PNG
+
+newmtl F_KEYBRD
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_KEYBRD.PNG
+
+newmtl F_MBOXTP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_MBOXTP.PNG
+
+newmtl F_PIPING
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_PIPING.PNG
+
+newmtl F_PLYWOD
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_PLYWOD.PNG
+
+newmtl F_STLT01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_STLT01.PNG
+
+newmtl F_TELE1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_TELE1.PNG
+
+newmtl F_TELE2
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_TELE2.PNG
+
+newmtl F_TOPPER
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_TOPPER.PNG
+
+newmtl F_UNDOOR
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_UNDOOR.PNG
+
+newmtl F_WOOD01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_WOOD01.PNG
+

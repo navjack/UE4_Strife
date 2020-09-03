@@ -1,0 +1,51 @@
+# MTL for strife1.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl BRKGRY01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKGRY01.PNG
+
+newmtl DORWS01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\DORWS01.PNG
+
+newmtl ELEVTR04
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\ELEVTR04.PNG
+
+newmtl SWLITE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\SWLITE01.PNG
+
+newmtl TRAMJON
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\TRAMJON.PNG
+
+newmtl F_BASHXL
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_BASHXL.PNG
+
+newmtl F_BRKTOP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_BRKTOP.PNG
+
+newmtl F_CONCRP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_CONCRP.PNG
+
+newmtl F_DECK
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_DECK.PNG
+
+newmtl F_GDCONC
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_GDCONC.PNG
+
+newmtl F_GRDLIT
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_GRDLIT.PNG
+
+newmtl F_UNDOOR
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_UNDOOR.PNG
+

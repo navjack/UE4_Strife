@@ -1,0 +1,75 @@
+# MTL for strife1.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl AZSUP05
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\AZSUP05.PNG
+
+newmtl BANR10
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BANR10.PNG
+
+newmtl BRKBRN02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKBRN02.PNG
+
+newmtl BRKGRY01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKGRY01.PNG
+
+newmtl CONCRT01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\CONCRT01.PNG
+
+newmtl FORCE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\FORCE01.PNG
+
+newmtl GLASS19
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\GLASS19.PNG
+
+newmtl GOYLE04
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\GOYLE04.PNG
+
+newmtl GOYPIL02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\GOYPIL02.PNG
+
+newmtl LITE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\LITE01.PNG
+
+newmtl SUPWOD01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\SUPWOD01.PNG
+
+newmtl F_1ALTAR
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_1ALTAR.PNG
+
+newmtl F_DIRT02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_DIRT02.PNG
+
+newmtl F_GDCONC
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_GDCONC.PNG
+
+newmtl F_GENTAN
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_GENTAN.PNG
+
+newmtl F_KNTBRK
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_KNTBRK.PNG
+
+newmtl F_LIGHT1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_LIGHT1.PNG
+
+newmtl P_SPLATR
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\P_SPLATR.PNG
+

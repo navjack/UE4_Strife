@@ -1,0 +1,51 @@
+# MTL for strife1.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl BRKGRY17
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\BRKGRY17.PNG
+
+newmtl DORWS04
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\DORWS04.PNG
+
+newmtl IRON05
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\IRON05.PNG
+
+newmtl SWLITE01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\SWLITE01.PNG
+
+newmtl TRAMJON
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\TRAMJON.PNG
+
+newmtl WALTEK02
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\WALTEK02.PNG
+
+newmtl F_BRKTOP
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_BRKTOP.PNG
+
+newmtl F_GDCONC
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_GDCONC.PNG
+
+newmtl F_NAILWD
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_NAILWD.PNG
+
+newmtl F_TELE1
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_TELE1.PNG
+
+newmtl F_TELE2
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_TELE2.PNG
+
+newmtl F_WOOD01
+Kd 1.0 1.0 1.0
+map_Kd N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_WOOD01.PNG
+
