@@ -1,4 +1,6 @@
-The process here is:
+# Texture Authoring
+
+## The process here is:
 
 * Upscale original texture and upscale it with waifu2x or other related AI upscaler to longest side 1024
 * Process upscaled texture with ShaderMap 4 and manually tweak normals and other related things as needed
