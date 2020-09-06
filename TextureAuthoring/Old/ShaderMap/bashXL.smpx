@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <shadermap_project>
     <header>
-        <version v="4;3;3" />
+        <version v="4;3;4" />
         <node_count v="14" />
-        <node_cur_sel v="13" />
+        <node_cur_sel v="12" />
         <user_project_grid_col_count v="8" />
         <material_count v="3" />
         <map_mask_count v="0" />
@@ -11,8 +11,8 @@
         <default_geo_count v="4" />
         <user_geo_count v="0" />
         <geo_max_instance_count v="10" />
-        <last_open_directory v="C:\Users\jackm\Documents\strife maps\map02" />
-        <last_save_directory v="C:\Users\jackm\Documents\strife maps\map02" />
+        <last_open_directory v="N:\gitstrife\UE4_Strife\TextureAuthoring\Old\TheOriginalTextures\Map02" />
+        <last_save_directory v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1" />
         <map_normal_radar_sample_count v="360" />
     </header>
     <node_0>
@@ -40,7 +40,7 @@
         <prop_1 type="7" value="0" />
         <coord_system v="0" />
         <tile_type v="0" />
-        <source_file_path v="F_BASHXL-gigapixel-scale-6_00x.png" />
+        <source_file_path v="..\TheOriginalTextures\Map02\F_BASHXL-gigapixel-scale-6_00x.png" />
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
@@ -151,7 +151,7 @@
         <plugin_version v="102" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="C:\Users\jackm\Documents\strife maps\map02\F_BASHXL-gigapixel-scale-6_00x_SPEC" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1\bashxl_spec" />
         <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="0" />
@@ -191,7 +191,7 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="C:\Users\jackm\Documents\strife maps\map02\F_BASHXL-gigapixel-scale-6_00x_AO" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1\bashxl_AO" />
         <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="5" />
@@ -228,7 +228,7 @@
         <plugin_version v="101" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="C:\Users\jackm\Documents\strife maps\map02\bashxl_height" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1\bashxl_disp" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="9" />
@@ -265,7 +265,7 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="C:\Users\jackm\Documents\strife maps\map02\bashxl_norm" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1\bashxl_norm" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="5" />
@@ -424,7 +424,7 @@
         <plugin_version v="202" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="C:\Users\jackm\Documents\strife maps\map02\bashxl_rough" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1\bashxl_rough" />
         <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="0" />
@@ -506,8 +506,8 @@
         <plugin_version v="101" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\bashxl.1\bashxl_albedo" />
+        <output_format v="10" />
         <input_count v="3" />
         <input_index_list v="0;11;3" />
         <is_input_filter_auto_update v="0" />
@@ -559,26 +559,27 @@
         <n_editor_layer_count v="0" />
     </node_13>
     <material_0>
-        <file_name v="501.pbr.xml" />
+        <file_name v="202.displacement.xml" />
         <material_grid_position v="0" />
-        <map_index_list v="12;6;10;11;4;-1;-1;-1;-1" />
+        <map_index_list v="-1;5;6;-1;-1;-1;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
         <tile_v v="1.00000" />
-        <prop_count v="12" />
-        <prop_0 fx_name="g_light_scale" type="4" value="100" />
-        <prop_1 fx_name="" type="1" map_fx_name="g_albedo_texture" value="1" />
-        <prop_2 fx_name="" type="1" map_fx_name="g_normal_texture" value="1" />
-        <prop_3 fx_name="" type="1" map_fx_name="g_roughness_texture" value="1" />
-        <prop_4 fx_name="g_roughness_scale" type="4" value="100" />
-        <prop_5 fx_name="" type="1" map_fx_name="g_metalness_texture" value="1" />
-        <prop_6 fx_name="g_metalness_scale" type="4" value="100" />
+        <prop_count v="13" />
+        <prop_0 fx_name="" type="1" map_fx_name="g_diffuse_texture" value="1" />
+        <prop_1 fx_name="" type="1" map_fx_name="g_displacement_texture" value="1" />
+        <prop_2 fx_name="g_displacement_scale" type="4" value="75" />
+        <prop_3 fx_name="" type="1" map_fx_name="g_normal_texture" value="1" />
+        <prop_4 fx_name="" type="1" map_fx_name="g_specular_texture" value="1" />
+        <prop_5 fx_name="g_shininess" type="4" value="90" />
+        <prop_6 fx_name="g_specular_scale" type="4" value="100" />
         <prop_7 fx_name="" type="1" map_fx_name="g_ao_texture" value="1" />
         <prop_8 fx_name="g_ao_scale" type="4" value="100" />
         <prop_9 fx_name="" type="1" map_fx_name="g_emissive_texture" value="1" />
         <prop_10 fx_name="g_emissive_scale" type="4" value="100" />
-        <prop_11 fx_name="g_ibl_scale" type="4" value="100" />
+        <prop_11 fx_name="" type="1" map_fx_name="g_env_ir_texture" value="0" />
+        <prop_12 fx_name="g_ibl_scale" type="4" value="100" />
     </material_0>
     <material_1>
         <file_name v="202.displacement.xml" />
@@ -670,7 +671,7 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;112.89994812;174.80471802;10.84362793;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;112.89994812;117.59654999;0.75103760;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="3" />
         <light_0 color="14803425" rotation="-0.17515004;-0.31426668;-0.11717883;0.92565000" />
