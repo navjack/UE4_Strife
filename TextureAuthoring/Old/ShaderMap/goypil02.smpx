@@ -3,7 +3,7 @@
     <header>
         <version v="4;3;4" />
         <node_count v="10" />
-        <node_cur_sel v="4" />
+        <node_cur_sel v="8" />
         <user_project_grid_col_count v="4" />
         <material_count v="3" />
         <map_mask_count v="0" />
@@ -11,8 +11,8 @@
         <default_geo_count v="4" />
         <user_geo_count v="0" />
         <geo_max_instance_count v="10" />
-        <last_open_directory v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01" />
-        <last_save_directory v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01" />
+        <last_open_directory v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\F_KNTBRK" />
+        <last_save_directory v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\alter" />
         <map_normal_radar_sample_count v="360" />
     </header>
     <node_0>
@@ -28,7 +28,7 @@
         <plugin_version v="402" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\F_KNTBRK(CUnet)(scale)(tta)(x12.000000)_DISP" />
+        <output_file_path v="" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="5" />
@@ -72,7 +72,7 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\F_KNTBRK(CUnet)(scale)(tta)(x12.000000)_NORM" />
+        <output_file_path v="" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="6" />
@@ -111,7 +111,7 @@
         <plugin_version v="102" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\GOYPIL02(CUnet)(scale)(tta)(x8.000000)_SPEC" />
+        <output_file_path v="" />
         <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="5" />
@@ -140,7 +140,7 @@
     </node_2>
     <node_3>
         <project_grid_col v="3" />
-        <project_grid_row v="3" />
+        <project_grid_row v="2" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="0" />
@@ -151,7 +151,7 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\GOYPIL02(CUnet)(scale)(tta)(x8.000000)_AO" />
+        <output_file_path v="" />
         <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="9" />
@@ -188,7 +188,7 @@
         <plugin_version v="202" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\GOYPIL02(CUnet)(scale)(tta)(x8.000000)_ROUGH" />
+        <output_file_path v="" />
         <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="5" />
@@ -317,7 +317,7 @@
     </node_7>
     <node_8>
         <project_grid_col v="3" />
-        <project_grid_row v="2" />
+        <project_grid_row v="0" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -328,7 +328,7 @@
         <plugin_version v="101" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\GOYPIL02(CUnet)(scale)(tta)(x8.000000)_NORM" />
+        <output_file_path v="" />
         <output_format v="12" />
         <input_count v="2" />
         <input_index_list v="7;1" />
@@ -353,8 +353,8 @@
         <n_editor_layer_count v="0" />
     </node_8>
     <node_9>
-        <project_grid_col v="2" />
-        <project_grid_row v="2" />
+        <project_grid_col v="3" />
+        <project_grid_row v="1" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -365,7 +365,7 @@
         <plugin_version v="101" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\TheOriginalTextures\Map01\GOYPIL02(CUnet)(scale)(tta)(x8.000000)_DISP" />
+        <output_file_path v="" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="8" />
@@ -390,26 +390,27 @@
         <n_editor_layer_count v="0" />
     </node_9>
     <material_0>
-        <file_name v="501.pbr.xml" />
+        <file_name v="202.displacement.xml" />
         <material_grid_position v="0" />
-        <map_index_list v="5;8;4;-1;3;-1;-1;-1;-1" />
+        <map_index_list v="-1;9;8;-1;-1;-1;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
         <tile_v v="1.00000" />
-        <prop_count v="12" />
-        <prop_0 fx_name="g_light_scale" type="4" value="100" />
-        <prop_1 fx_name="" type="1" map_fx_name="g_albedo_texture" value="1" />
-        <prop_2 fx_name="" type="1" map_fx_name="g_normal_texture" value="1" />
-        <prop_3 fx_name="" type="1" map_fx_name="g_roughness_texture" value="1" />
-        <prop_4 fx_name="g_roughness_scale" type="4" value="100" />
-        <prop_5 fx_name="" type="1" map_fx_name="g_metalness_texture" value="1" />
-        <prop_6 fx_name="g_metalness_scale" type="4" value="0" />
+        <prop_count v="13" />
+        <prop_0 fx_name="" type="1" map_fx_name="g_diffuse_texture" value="1" />
+        <prop_1 fx_name="" type="1" map_fx_name="g_displacement_texture" value="1" />
+        <prop_2 fx_name="g_displacement_scale" type="4" value="75" />
+        <prop_3 fx_name="" type="1" map_fx_name="g_normal_texture" value="1" />
+        <prop_4 fx_name="" type="1" map_fx_name="g_specular_texture" value="1" />
+        <prop_5 fx_name="g_shininess" type="4" value="90" />
+        <prop_6 fx_name="g_specular_scale" type="4" value="100" />
         <prop_7 fx_name="" type="1" map_fx_name="g_ao_texture" value="1" />
         <prop_8 fx_name="g_ao_scale" type="4" value="100" />
         <prop_9 fx_name="" type="1" map_fx_name="g_emissive_texture" value="1" />
         <prop_10 fx_name="g_emissive_scale" type="4" value="100" />
-        <prop_11 fx_name="g_ibl_scale" type="4" value="100" />
+        <prop_11 fx_name="" type="1" map_fx_name="g_env_ir_texture" value="0" />
+        <prop_12 fx_name="g_ibl_scale" type="4" value="100" />
     </material_0>
     <material_1>
         <file_name v="202.displacement.xml" />
@@ -501,7 +502,7 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;79.59369659;194.77861023;0.64343452;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;103.75247192;102.77696228;-32.06901169;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="3" />
         <light_0 color="16777215" rotation="-0.20816711;-0.08574206;0.05045796;0.97302008" />
