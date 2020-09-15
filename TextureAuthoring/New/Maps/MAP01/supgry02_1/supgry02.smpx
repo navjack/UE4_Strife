@@ -2,11 +2,11 @@
 <shadermap_project>
     <header>
         <version v="4;3;4" />
-        <node_count v="13" />
+        <node_count v="14" />
         <node_cur_sel v="4" />
-        <user_project_grid_col_count v="4" />
+        <user_project_grid_col_count v="7" />
         <material_count v="3" />
-        <map_mask_count v="2" />
+        <map_mask_count v="1" />
         <disp_pattern_count v="0" />
         <default_geo_count v="4" />
         <user_geo_count v="0" />
@@ -129,7 +129,7 @@
         <n_editor_layer_count v="0" />
     </node_2>
     <node_3>
-        <project_grid_col v="3" />
+        <project_grid_col v="4" />
         <project_grid_row v="1" />
         <node_type v="1" />
         <alpha_state v="0" />
@@ -142,7 +142,7 @@
         <plugin_type v="1" />
         <is_locked v="0" />
         <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_spec" />
-        <output_format v="10" />
+        <output_format v="13" />
         <input_count v="1" />
         <input_index_list v="0" />
         <is_input_filter_auto_update v="0" />
@@ -169,8 +169,8 @@
         <n_editor_layer_count v="0" />
     </node_3>
     <node_4>
-        <project_grid_col v="0" />
-        <project_grid_row v="2" />
+        <project_grid_col v="4" />
+        <project_grid_row v="6" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -182,9 +182,9 @@
         <plugin_type v="1" />
         <is_locked v="0" />
         <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_AO" />
-        <output_format v="10" />
+        <output_format v="13" />
         <input_count v="1" />
-        <input_index_list v="8" />
+        <input_index_list v="12" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <input_filter_data_0 v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
@@ -275,121 +275,8 @@
         <n_editor_layer_count v="0" />
     </node_6>
     <node_7>
-        <project_grid_col v="2" />
+        <project_grid_col v="4" />
         <project_grid_row v="2" />
-        <node_type v="1" />
-        <alpha_state v="0" />
-        <is_auto_render v="1" />
-        <channel_toggle_state v="15" />
-        <is_embed_in_texture v="0" />
-        <is_embed_on_export v="1" />
-        <plugin_file_name v="map_blend_norm.smp" />
-        <plugin_version v="101" />
-        <plugin_type v="1" />
-        <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
-        <input_count v="2" />
-        <input_index_list v="6;2" />
-        <is_input_filter_auto_update v="0" />
-        <is_input_filter_toggle_original v="0" />
-        <input_filter_data_0 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
-        <input_filter_data_1 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
-        <map_mask i="-1" f="" />
-        <prop_count v="7" />
-        <prop_page_counts v="7;" />
-        <prop_0 type="3" value="0" />
-        <prop_1 type="7" value="50" />
-        <prop_2 type="3" value="0" />
-        <prop_3 type="4" value="0" />
-        <prop_4 type="4" value="0" />
-        <prop_5 type="2" value="1" />
-        <prop_6 type="2" value="0" />
-        <coord_system v="26" />
-        <tile_type v="0" />
-        <pre_filter_count v="0" />
-        <post_filter_count v="0" />
-        <n_editor_layer_count v="0" />
-    </node_7>
-    <node_8>
-        <project_grid_col v="1" />
-        <project_grid_row v="2" />
-        <node_type v="1" />
-        <alpha_state v="0" />
-        <is_auto_render v="1" />
-        <channel_toggle_state v="9" />
-        <is_embed_in_texture v="0" />
-        <is_embed_on_export v="1" />
-        <plugin_file_name v="map_norm_to_disp_2.smp" />
-        <plugin_version v="101" />
-        <plugin_type v="1" />
-        <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_disp" />
-        <output_format v="12" />
-        <input_count v="1" />
-        <input_index_list v="7" />
-        <is_input_filter_auto_update v="0" />
-        <is_input_filter_toggle_original v="0" />
-        <input_filter_data_0 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
-        <map_mask i="1" f="SUPGRY02_disphelp1_8x_NMKD-Superscale_150000_G.png" />
-        <prop_count v="8" />
-        <prop_page_counts v="8;" />
-        <prop_0 type="7" value="10" />
-        <prop_1 type="2" value="1" />
-        <prop_2 type="2" value="0" />
-        <prop_3 type="9" value="0;100;" />
-        <prop_4 type="7" value="0" />
-        <prop_5 type="2" value="1" />
-        <prop_6 type="2" value="1" />
-        <prop_7 type="2" value="0" />
-        <coord_system v="0" />
-        <tile_type v="0" />
-        <pre_filter_count v="0" />
-        <post_filter_count v="0" />
-        <n_editor_layer_count v="0" />
-    </node_8>
-    <node_9>
-        <project_grid_col v="1" />
-        <project_grid_row v="3" />
-        <node_type v="1" />
-        <alpha_state v="0" />
-        <is_auto_render v="1" />
-        <channel_toggle_state v="15" />
-        <is_embed_in_texture v="0" />
-        <is_embed_on_export v="1" />
-        <plugin_file_name v="map_disp_to_norm_3.smp" />
-        <plugin_version v="301" />
-        <plugin_type v="1" />
-        <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_norm" />
-        <output_format v="12" />
-        <input_count v="1" />
-        <input_index_list v="8" />
-        <is_input_filter_auto_update v="0" />
-        <is_input_filter_toggle_original v="0" />
-        <input_filter_data_0 v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
-        <map_mask i="-1" f="" />
-        <prop_count v="10" />
-        <prop_page_counts v="10;" />
-        <prop_0 type="8" value="26" />
-        <prop_1 type="7" value="100" />
-        <prop_2 type="9" value="33;66;" />
-        <prop_3 type="7" value="0" />
-        <prop_4 type="7" value="0" />
-        <prop_5 type="7" value="0" />
-        <prop_6 type="2" value="0" />
-        <prop_7 type="2" value="0" />
-        <prop_8 type="2" value="1" />
-        <prop_9 type="2" value="0" />
-        <coord_system v="26" />
-        <tile_type v="0" />
-        <pre_filter_count v="0" />
-        <post_filter_count v="0" />
-        <n_editor_layer_count v="0" />
-    </node_9>
-    <node_10>
-        <project_grid_col v="3" />
-        <project_grid_row v="3" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -401,7 +288,7 @@
         <plugin_type v="1" />
         <is_locked v="0" />
         <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_metal" />
-        <output_format v="10" />
+        <output_format v="13" />
         <input_count v="1" />
         <input_index_list v="0" />
         <is_input_filter_auto_update v="0" />
@@ -427,10 +314,10 @@
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
-    </node_10>
-    <node_11>
-        <project_grid_col v="3" />
-        <project_grid_row v="2" />
+    </node_7>
+    <node_8>
+        <project_grid_col v="4" />
+        <project_grid_row v="0" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -442,9 +329,9 @@
         <plugin_type v="1" />
         <is_locked v="0" />
         <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_albedo" />
-        <output_format v="10" />
+        <output_format v="13" />
         <input_count v="3" />
-        <input_index_list v="0;10;3" />
+        <input_index_list v="0;7;3" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <input_filter_data_0 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
@@ -460,9 +347,9 @@
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
-    </node_11>
-    <node_12>
-        <project_grid_col v="2" />
+    </node_8>
+    <node_9>
+        <project_grid_col v="4" />
         <project_grid_row v="3" />
         <node_type v="1" />
         <alpha_state v="0" />
@@ -475,7 +362,7 @@
         <plugin_type v="1" />
         <is_locked v="0" />
         <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_rough" />
-        <output_format v="10" />
+        <output_format v="13" />
         <input_count v="1" />
         <input_index_list v="0" />
         <is_input_filter_auto_update v="0" />
@@ -501,11 +388,161 @@
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
+    </node_9>
+    <node_10>
+        <project_grid_col v="3" />
+        <project_grid_row v="0" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="map_norm_to_disp_2.smp" />
+        <plugin_version v="101" />
+        <plugin_type v="1" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="12" />
+        <input_count v="1" />
+        <input_index_list v="2" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <input_filter_data_0 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="8" />
+        <prop_page_counts v="8;" />
+        <prop_0 type="7" value="10" />
+        <prop_1 type="2" value="1" />
+        <prop_2 type="2" value="0" />
+        <prop_3 type="9" value="0;100;" />
+        <prop_4 type="7" value="50" />
+        <prop_5 type="2" value="1" />
+        <prop_6 type="2" value="1" />
+        <prop_7 type="2" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_10>
+    <node_11>
+        <project_grid_col v="3" />
+        <project_grid_row v="1" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="map_norm_to_disp_2.smp" />
+        <plugin_version v="101" />
+        <plugin_type v="1" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="12" />
+        <input_count v="1" />
+        <input_index_list v="6" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <input_filter_data_0 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="8" />
+        <prop_page_counts v="8;" />
+        <prop_0 type="7" value="10" />
+        <prop_1 type="2" value="1" />
+        <prop_2 type="2" value="0" />
+        <prop_3 type="9" value="0;100;" />
+        <prop_4 type="7" value="50" />
+        <prop_5 type="2" value="1" />
+        <prop_6 type="2" value="1" />
+        <prop_7 type="2" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_11>
+    <node_12>
+        <project_grid_col v="4" />
+        <project_grid_row v="5" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="map_blend.smp" />
+        <plugin_version v="102" />
+        <plugin_type v="1" />
+        <is_locked v="0" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_disp" />
+        <output_format v="13" />
+        <input_count v="2" />
+        <input_index_list v="11;10" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <input_filter_data_0 v="0.00000;1.00000;0.00000;1.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
+        <input_filter_data_1 v="0.00000;1.00000;0.00000;1.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="7" />
+        <prop_page_counts v="7;" />
+        <prop_0 type="3" value="0" />
+        <prop_1 type="7" value="50" />
+        <prop_2 type="3" value="0" />
+        <prop_3 type="4" value="0" />
+        <prop_4 type="4" value="0" />
+        <prop_5 type="2" value="1" />
+        <prop_6 type="2" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
     </node_12>
+    <node_13>
+        <project_grid_col v="4" />
+        <project_grid_row v="4" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="15" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="map_disp_to_norm_3.smp" />
+        <plugin_version v="301" />
+        <plugin_type v="1" />
+        <is_locked v="0" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\supgry02_1\SUPGRY02_norm" />
+        <output_format v="13" />
+        <input_count v="1" />
+        <input_index_list v="12" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <input_filter_data_0 v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="10" />
+        <prop_page_counts v="10;" />
+        <prop_0 type="8" value="26" />
+        <prop_1 type="7" value="100" />
+        <prop_2 type="9" value="33;66;" />
+        <prop_3 type="7" value="0" />
+        <prop_4 type="7" value="0" />
+        <prop_5 type="7" value="0" />
+        <prop_6 type="2" value="0" />
+        <prop_7 type="2" value="0" />
+        <prop_8 type="2" value="1" />
+        <prop_9 type="2" value="0" />
+        <coord_system v="26" />
+        <tile_type v="0" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_13>
     <material_0>
         <file_name v="501.pbr.xml" />
         <material_grid_position v="0" />
-        <map_index_list v="11;9;12;10;4;-1;-1;-1;-1" />
+        <map_index_list v="8;13;9;7;4;-1;-1;-1;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
@@ -605,7 +642,7 @@
         <name v="Dynamic Plane" />
         <is_tessellated v="1" />
         <instance_count v="1" />
-        <distance_offset v="0" />
+        <distance_offset v="-100" />
         <cur_sel_instance v="-1" />
         <cur_sel_material_grid_position v="0" />
         <material_index_list v="0;-1;-1;-1;-1;-1;-1;-1;-1;-1" />
@@ -614,7 +651,7 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;105.74707794;169.15606689;9.56922531;164.00000000" />
+        <camera_orientation v="0.22454473;0.35272604;-0.02343622;92.44020844;170.24449158;15.33190536;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="3" />
         <light_0 color="14803425" rotation="0.01234952;0.06246065;-0.05724448;0.99632788" />
