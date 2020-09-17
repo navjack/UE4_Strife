@@ -1,0 +1,363 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8,
+            "type": "VEC3",
+            "max": [
+                -5360.0,
+                655.9999389648438,
+                10352.0
+            ],
+            "min": [
+                -5360.0,
+                463.99993896484377,
+                10288.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8,
+            "type": "VEC3",
+            "max": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                -1.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8,
+            "type": "VEC2",
+            "max": [
+                0.983259379863739,
+                0.9942923784255981
+            ],
+            "min": [
+                0.016740595921874048,
+                0.0057076215744018559
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR",
+            "max": [
+                7.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3",
+            "max": [
+                -5360.0,
+                572.0103149414063,
+                10344.00390625
+            ],
+            "min": [
+                -5360.0,
+                523.86083984375,
+                10296.0087890625
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC3",
+            "max": [
+                -1.0,
+                -0.0,
+                -0.0
+            ],
+            "min": [
+                -1.0,
+                -0.0,
+                -0.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4,
+            "type": "VEC2",
+            "max": [
+                0.9901806712150574,
+                0.9902114868164063
+            ],
+            "min": [
+                0.009819349274039269,
+                0.00978851318359375
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                3.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8,
+            "type": "VEC3",
+            "max": [
+                -5344.0,
+                655.9999389648438,
+                10368.0
+            ],
+            "min": [
+                -5360.0,
+                463.99993896484377,
+                10272.0
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8,
+            "type": "VEC3",
+            "max": [
+                -0.7071067690849304,
+                0.0,
+                0.7071068286895752
+            ],
+            "min": [
+                -0.7071068286895752,
+                0.0,
+                -0.7071068286895752
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8,
+            "type": "VEC2",
+            "max": [
+                0.9776909351348877,
+                0.9959505796432495
+            ],
+            "min": [
+                0.022309064865112306,
+                0.004049420356750488
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR",
+            "max": [
+                7.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 724,
+            "uri": "SWLITE01_2_&_TRAMJON_1.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 96,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 96,
+            "byteLength": 96,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 192,
+            "byteLength": 64,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 256,
+            "byteLength": 48,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 304,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 352,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 400,
+            "byteLength": 32,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 432,
+            "byteLength": 12,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 444,
+            "byteLength": 96,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 540,
+            "byteLength": 96,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 636,
+            "byteLength": 64,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 700,
+            "byteLength": 24,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "conc",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "switch",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "TRAMJON",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "SWLITE01_2_TRAMJON_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                },
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    }
+                },
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "SWLITE01_2_TRAMJON_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
