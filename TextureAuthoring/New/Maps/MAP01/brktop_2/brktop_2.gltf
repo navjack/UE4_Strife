@@ -1,0 +1,147 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 20,
+            "type": "VEC3",
+            "max": [
+                -4016.0,
+                -80.0,
+                11392.0
+            ],
+            "min": [
+                -4736.0,
+                -80.0,
+                10368.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 20,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 20,
+            "type": "VEC2",
+            "max": [
+                0.9888759851455689,
+                0.9921221733093262
+            ],
+            "min": [
+                0.01112401857972145,
+                0.007877826690673828
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 48,
+            "type": "SCALAR",
+            "max": [
+                19.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 736,
+            "uri": "brktop_2.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 240,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 240,
+            "byteLength": 240,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 480,
+            "byteLength": 160,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 640,
+            "byteLength": 96,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "F_BRKTOP",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "F_BRKTOP_2",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "F_BRKTOP_2",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
