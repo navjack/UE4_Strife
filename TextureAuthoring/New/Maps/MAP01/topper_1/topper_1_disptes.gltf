@@ -1,0 +1,147 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 15588,
+            "type": "VEC3",
+            "max": [
+                -5903.99951171875,
+                453.9200439453125,
+                11856.0
+            ],
+            "min": [
+                -6199.99951171875,
+                448.0118713378906,
+                11680.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 15588,
+            "type": "VEC3",
+            "max": [
+                0.9137101173400879,
+                1.0,
+                0.809882640838623
+            ],
+            "min": [
+                -0.9137305021286011,
+                0.40631940960884097,
+                -0.8102113008499146
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 15588,
+            "type": "VEC2",
+            "max": [
+                0.9924061298370361,
+                0.9873592853546143
+            ],
+            "min": [
+                0.007593883201479912,
+                0.012640655040740967
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 92160,
+            "type": "SCALAR",
+            "max": [
+                15587.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 683136,
+            "uri": "topper_1_disptes.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 187056,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 187056,
+            "byteLength": 187056,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 374112,
+            "byteLength": 124704,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 498816,
+            "byteLength": 184320,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "F_TOPPER",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "F_TOPPER_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "F_TOPPER_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
