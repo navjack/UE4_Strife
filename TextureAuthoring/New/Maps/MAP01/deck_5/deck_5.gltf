@@ -1,0 +1,147 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14,
+            "type": "VEC3",
+            "max": [
+                -4016.0,
+                176.00001525878907,
+                11392.0009765625
+            ],
+            "min": [
+                -4672.0,
+                176.00001525878907,
+                10560.0009765625
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                -0.9999999403953552,
+                0.0
+            ],
+            "min": [
+                0.0,
+                -0.9999999403953552,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14,
+            "type": "VEC2",
+            "max": [
+                0.9916792511940002,
+                0.9894635677337647
+            ],
+            "min": [
+                0.008320726454257965,
+                0.010536372661590577
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 30,
+            "type": "SCALAR",
+            "max": [
+                13.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 508,
+            "uri": "deck_5.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 168,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 168,
+            "byteLength": 168,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 336,
+            "byteLength": 112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 448,
+            "byteLength": 60,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "F_DECK",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "F_DECK_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "F_DECK_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
