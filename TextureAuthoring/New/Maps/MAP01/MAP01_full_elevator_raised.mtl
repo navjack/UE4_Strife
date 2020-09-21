@@ -1,0 +1,234 @@
+# MTL for strife1.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3274
+
+newmtl AZSUP05
+Kd 1.0 1.0 1.0
+
+newmtl BANR10
+Kd 1.0 1.0 1.0
+
+newmtl BANR11
+Kd 1.0 1.0 1.0
+
+newmtl BED01
+Kd 1.0 1.0 1.0
+
+newmtl BRKBRN02
+Kd 1.0 1.0 1.0
+
+newmtl BRKGRY01
+Kd 1.0 1.0 1.0
+
+newmtl BRKGRY17
+Kd 1.0 1.0 1.0
+
+newmtl COMP17
+Kd 1.0 1.0 1.0
+
+newmtl CONCRT01
+Kd 1.0 1.0 1.0
+
+newmtl DORMS02
+Kd 1.0 1.0 1.0
+
+newmtl DORTRK02
+Kd 1.0 1.0 1.0
+
+newmtl DORWS01
+Kd 1.0 1.0 1.0
+
+newmtl DORWS02
+Kd 1.0 1.0 1.0
+
+newmtl DORWS04
+Kd 1.0 1.0 1.0
+
+newmtl ELEVTR04
+Kd 1.0 1.0 1.0
+
+newmtl FORCE01
+Kd 1.0 1.0 1.0
+
+newmtl GLASS19
+Kd 1.0 1.0 1.0
+
+newmtl GOYLE04
+Kd 1.0 1.0 1.0
+
+newmtl GOYPIL02
+Kd 1.0 1.0 1.0
+
+newmtl IRON05
+Kd 1.0 1.0 1.0
+
+newmtl IRON06
+Kd 1.0 1.0 1.0
+
+newmtl LITE01
+Kd 1.0 1.0 1.0
+
+newmtl MOSWAL03
+Kd 1.0 1.0 1.0
+
+newmtl MOSWAL05
+Kd 1.0 1.0 1.0
+
+newmtl MOSWAL07
+Kd 1.0 1.0 1.0
+
+newmtl RAIL01
+Kd 1.0 1.0 1.0
+
+newmtl SCAN01
+Kd 1.0 1.0 1.0
+
+newmtl STAIR01
+Kd 1.0 1.0 1.0
+
+newmtl SUPGRY02
+Kd 1.0 1.0 1.0
+
+newmtl SUPWOD01
+Kd 1.0 1.0 1.0
+
+newmtl SWFORC01
+Kd 1.0 1.0 1.0
+
+newmtl SWIRON07
+Kd 1.0 1.0 1.0
+
+newmtl SWLITE01
+Kd 1.0 1.0 1.0
+
+newmtl TRAMJON
+Kd 1.0 1.0 1.0
+
+newmtl WALCAV01
+Kd 1.0 1.0 1.0
+
+newmtl WALTEK02
+Kd 1.0 1.0 1.0
+
+newmtl WALTEK04
+Kd 1.0 1.0 1.0
+
+newmtl WALTEK09
+Kd 1.0 1.0 1.0
+
+newmtl WALTEK11
+Kd 1.0 1.0 1.0
+
+newmtl WALTEK14
+Kd 1.0 1.0 1.0
+
+newmtl WOODNL1
+Kd 1.0 1.0 1.0
+
+newmtl F_1ALTAR
+Kd 1.0 1.0 1.0
+
+newmtl F_BASHXL
+Kd 1.0 1.0 1.0
+
+newmtl F_BRKTOP
+Kd 1.0 1.0 1.0
+
+newmtl F_CAUSHN
+Kd 1.0 1.0 1.0
+
+newmtl F_CAVE01
+Kd 1.0 1.0 1.0
+
+newmtl F_CONCRP
+Kd 1.0 1.0 1.0
+
+newmtl F_DECK
+Kd 1.0 1.0 1.0
+
+newmtl F_DIRT02
+Kd 1.0 1.0 1.0
+
+newmtl F_ELTOP2
+Kd 1.0 1.0 1.0
+
+newmtl F_GDCONC
+Kd 1.0 1.0 1.0
+
+newmtl F_GENTAN
+Kd 1.0 1.0 1.0
+
+newmtl F_GRATE
+Kd 1.0 1.0 1.0
+
+newmtl F_GRDLIT
+Kd 1.0 1.0 1.0
+
+newmtl F_KEYBRD
+Kd 1.0 1.0 1.0
+
+newmtl F_KNTBRK
+Kd 1.0 1.0 1.0
+
+newmtl F_LIGHT1
+Kd 1.0 1.0 1.0
+
+newmtl F_MBOXTP
+Kd 1.0 1.0 1.0
+
+newmtl F_NAILWD
+Kd 1.0 1.0 1.0
+
+newmtl F_NOLINE
+Kd 1.0 1.0 1.0
+
+newmtl F_PIPING
+Kd 1.0 1.0 1.0
+
+newmtl F_PLATLL
+Kd 1.0 1.0 1.0
+
+newmtl F_PLATUL
+Kd 1.0 1.0 1.0
+
+newmtl F_PLATUR
+Kd 1.0 1.0 1.0
+
+newmtl F_PLYWOD
+Kd 1.0 1.0 1.0
+
+newmtl F_REDROK
+Kd 1.0 1.0 1.0
+
+newmtl F_SCANR1
+Kd 1.0 1.0 1.0
+
+newmtl F_SKY001
+Kd 1.0 1.0 1.0
+
+newmtl F_STLT01
+Kd 1.0 1.0 1.0
+
+newmtl F_TELE1
+Kd 1.0 1.0 1.0
+
+newmtl F_TELE2
+Kd 1.0 1.0 1.0
+
+newmtl F_TKSCRN
+Kd 1.0 1.0 1.0
+
+newmtl F_TOPPER
+Kd 1.0 1.0 1.0
+
+newmtl F_UNDOOR
+Kd 1.0 1.0 1.0
+
+newmtl F_WATR03
+Kd 1.0 1.0 1.0
+
+newmtl F_WOOD01
+Kd 1.0 1.0 1.0
+
+newmtl P_SPLATR
+Kd 1.0 1.0 1.0
+
