@@ -1,0 +1,147 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 101,
+            "type": "VEC3",
+            "max": [
+                -4416.0,
+                512.0,
+                12464.0
+            ],
+            "min": [
+                -5888.0,
+                512.0,
+                10496.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 101,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                -1.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                -1.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 101,
+            "type": "VEC2",
+            "max": [
+                0.9903104901313782,
+                0.9914612770080566
+            ],
+            "min": [
+                0.009689532220363617,
+                0.008538663387298584
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 321,
+            "type": "SCALAR",
+            "max": [
+                100.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3874,
+            "uri": "cave01_1.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 1212,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1212,
+            "byteLength": 1212,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2424,
+            "byteLength": 808,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3232,
+            "byteLength": 642,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "F_CAVE01",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "F_CAVE01_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "F_CAVE01_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}

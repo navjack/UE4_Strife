@@ -4,7 +4,7 @@
         <version v="4;3;4" />
         <node_count v="6" />
         <node_cur_sel v="0" />
-        <user_project_grid_col_count v="0" />
+        <user_project_grid_col_count v="5" />
         <material_count v="3" />
         <map_mask_count v="0" />
         <disp_pattern_count v="0" />
@@ -46,8 +46,8 @@
         <n_editor_layer_count v="0" />
     </node_0>
     <node_1>
-        <project_grid_col v="1" />
-        <project_grid_row v="1" />
+        <project_grid_col v="2" />
+        <project_grid_row v="2" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -169,8 +169,8 @@
         <n_editor_layer_count v="0" />
     </node_3>
     <node_4>
-        <project_grid_col v="0" />
-        <project_grid_row v="1" />
+        <project_grid_col v="2" />
+        <project_grid_row v="4" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -210,8 +210,8 @@
         <n_editor_layer_count v="0" />
     </node_4>
     <node_5>
-        <project_grid_col v="0" />
-        <project_grid_row v="2" />
+        <project_grid_col v="2" />
+        <project_grid_row v="3" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -362,7 +362,7 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;99.96539307;165.43663025;-1.05130208;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;99.96539307;176.26329041;2.17568970;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="3" />
         <light_0 color="14803425" rotation="-0.50080788;-0.59398723;-0.62669909;0.06015523" />
