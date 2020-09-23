@@ -1,0 +1,153 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 17,
+            "type": "VEC3",
+            "max": [
+                -4480.0,
+                -80.0,
+                10624.0
+            ],
+            "min": [
+                -4736.0,
+                -80.0,
+                10368.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 17,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 17,
+            "type": "VEC2",
+            "max": [
+                0.9901960492134094,
+                0.9901959896087647
+            ],
+            "min": [
+                0.009803921915590763,
+                0.0098038911819458
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 45,
+            "type": "SCALAR",
+            "max": [
+                16.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 634,
+            "uri": "platall.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 204,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 204,
+            "byteLength": 204,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 408,
+            "byteLength": 136,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 544,
+            "byteLength": 90,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "F_PLATLL_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "F_PLATLL_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}

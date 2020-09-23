@@ -3,8 +3,8 @@
     <header>
         <version v="4;3;4" />
         <node_count v="8" />
-        <node_cur_sel v="4" />
-        <user_project_grid_col_count v="0" />
+        <node_cur_sel v="3" />
+        <user_project_grid_col_count v="7" />
         <material_count v="3" />
         <map_mask_count v="0" />
         <disp_pattern_count v="0" />
@@ -16,8 +16,8 @@
         <map_normal_radar_sample_count v="360" />
     </header>
     <node_0>
-        <project_grid_col v="0" />
-        <project_grid_row v="0" />
+        <project_grid_col v="3" />
+        <project_grid_row v="2" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -28,8 +28,8 @@
         <plugin_version v="102" />
         <plugin_type v="0" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_disp" />
+        <output_format v="12" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
@@ -46,8 +46,8 @@
         <n_editor_layer_count v="0" />
     </node_0>
     <node_1>
-        <project_grid_col v="2" />
-        <project_grid_row v="0" />
+        <project_grid_col v="3" />
+        <project_grid_row v="1" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -58,7 +58,7 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR-disphelp_NORM" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_normal" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="0" />
@@ -85,7 +85,7 @@
         <n_editor_layer_count v="0" />
     </node_1>
     <node_2>
-        <project_grid_col v="1" />
+        <project_grid_col v="0" />
         <project_grid_row v="0" />
         <node_type v="1" />
         <alpha_state v="0" />
@@ -115,8 +115,8 @@
         <n_editor_layer_count v="0" />
     </node_2>
     <node_3>
-        <project_grid_col v="0" />
-        <project_grid_row v="1" />
+        <project_grid_col v="3" />
+        <project_grid_row v="6" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -127,8 +127,8 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_ao" />
+        <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="0" />
         <is_input_filter_auto_update v="0" />
@@ -152,8 +152,8 @@
         <n_editor_layer_count v="0" />
     </node_3>
     <node_4>
-        <project_grid_col v="1" />
-        <project_grid_row v="1" />
+        <project_grid_col v="3" />
+        <project_grid_row v="5" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -164,8 +164,8 @@
         <plugin_version v="102" />
         <plugin_type v="0" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_metal" />
+        <output_format v="10" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
@@ -182,8 +182,8 @@
         <n_editor_layer_count v="0" />
     </node_4>
     <node_5>
-        <project_grid_col v="2" />
-        <project_grid_row v="1" />
+        <project_grid_col v="3" />
+        <project_grid_row v="0" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -194,8 +194,8 @@
         <plugin_version v="101" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_albedo" />
+        <output_format v="10" />
         <input_count v="3" />
         <input_index_list v="2;4;6" />
         <is_input_filter_auto_update v="0" />
@@ -215,8 +215,8 @@
         <n_editor_layer_count v="0" />
     </node_5>
     <node_6>
-        <project_grid_col v="2" />
-        <project_grid_row v="2" />
+        <project_grid_col v="3" />
+        <project_grid_row v="3" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -227,8 +227,8 @@
         <plugin_version v="102" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="19" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_spec" />
+        <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="2" />
         <is_input_filter_auto_update v="0" />
@@ -255,8 +255,8 @@
         <n_editor_layer_count v="0" />
     </node_6>
     <node_7>
-        <project_grid_col v="1" />
-        <project_grid_row v="2" />
+        <project_grid_col v="3" />
+        <project_grid_row v="4" />
         <node_type v="1" />
         <alpha_state v="0" />
         <is_auto_render v="1" />
@@ -267,8 +267,8 @@
         <plugin_version v="202" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\platall_1\F_PLATUR_rough" />
+        <output_format v="10" />
         <input_count v="1" />
         <input_index_list v="2" />
         <is_input_filter_auto_update v="0" />
