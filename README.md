@@ -25,9 +25,13 @@ Check the texture authoring folder for more information on how I'm going about t
 
 ## Requirements
 
+### To Acquire the Files
+
+Just git clone or download by clicking on Code and Download ZIP. I'd advise against using the built in UE4 Git stuff, I don't use it.
+
 ### For Editing
 
-If you want to open the project all you need is the latest version of UE4. Although on my end I'm using a fork of the engine with DLSS 2.0 built in the project still works on the normal release of the engine.
+If you want to open the project all you need is the latest version of UE4. Although on my end I'm using a fork of the engine with DLSS 2.0 built in - the project still works on the normal release of the engine and you can use that if you want to mess around with things.
 
 ### For Playing
 
