@@ -130,6 +130,10 @@
 		{
 			"Name": "USDImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
