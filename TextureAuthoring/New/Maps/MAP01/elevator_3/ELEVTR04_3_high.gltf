@@ -1,0 +1,147 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6273,
+            "type": "VEC3",
+            "max": [
+                -5952.0,
+                192.0,
+                11868.7607421875
+            ],
+            "min": [
+                -6200.0,
+                -64.0,
+                11856.0166015625
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6273,
+            "type": "VEC3",
+            "max": [
+                0.6288148760795593,
+                0.812325656414032,
+                1.0
+            ],
+            "min": [
+                -0.6175643801689148,
+                -0.7361467480659485,
+                0.5816940069198608
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6273,
+            "type": "VEC2",
+            "max": [
+                0.990381121635437,
+                0.9903810024261475
+            ],
+            "min": [
+                0.009618941694498062,
+                0.009618878364562989
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 36864,
+            "type": "SCALAR",
+            "max": [
+                6272.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 274464,
+            "uri": "ELEVTR04_3_high.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 75276,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 75276,
+            "byteLength": 75276,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 150552,
+            "byteLength": 50184,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 200736,
+            "byteLength": 73728,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "ELEVTR04",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "ELEVTR04_2",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "ELEVTR04_2",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
