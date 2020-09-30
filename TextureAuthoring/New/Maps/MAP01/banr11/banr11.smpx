@@ -3,7 +3,7 @@
     <header>
         <version v="4;3;4" />
         <node_count v="13" />
-        <node_cur_sel v="12" />
+        <node_cur_sel v="4" />
         <user_project_grid_col_count v="6" />
         <material_count v="3" />
         <map_mask_count v="1" />
@@ -28,8 +28,8 @@
         <plugin_version v="102" />
         <plugin_type v="0" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\banr11\banr11_Disp_Stage_1" />
+        <output_format v="10" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
@@ -40,7 +40,7 @@
         <prop_1 type="7" value="0" />
         <coord_system v="0" />
         <tile_type v="0" />
-        <source_file_path v="BANR11_disphelp(UpResNet10)(noise_scale)(Level3)(tta)(height 2048).png" />
+        <source_file_path v="banr11_Disp_Stage_1.png" />
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
@@ -97,8 +97,8 @@
         <plugin_version v="102" />
         <plugin_type v="0" />
         <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
+        <output_file_path v="N:\gitstrife\UE4_Strife\TextureAuthoring\New\Maps\MAP01\banr11\banr11_Color_Map" />
+        <output_format v="10" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
@@ -109,7 +109,7 @@
         <prop_1 type="7" value="0" />
         <coord_system v="0" />
         <tile_type v="0" />
-        <source_file_path v="BANR11-1_4x_FArtSuperBlend_4x_NMKD-Superscale-Artisoftject_210000_G.png" />
+        <source_file_path v="banr11_Color_Map.png" />
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
@@ -330,7 +330,7 @@
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <input_filter_data_0 v="0.25000;1.00000;0.00000;0.50000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
-        <map_mask i="0" f="BANR11-metalhelp(UpResNet10)(noise_scale)(Level3)(tta)(height 2048).png" />
+        <map_mask i="0" f="banr11_Metal_Help_Mask.png" />
         <prop_count v="12" />
         <prop_page_counts v="12;" />
         <prop_0 type="2" value="0" />
@@ -449,7 +449,7 @@
         <prop_1 type="7" value="0" />
         <coord_system v="0" />
         <tile_type v="0" />
-        <source_file_path v="BANR11_4x_FArtSuperBlend_4x_NMKD-Superscale-Artisoftject_210000_G.png" />
+        <source_file_path v="BANR11_albedo.png" />
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
