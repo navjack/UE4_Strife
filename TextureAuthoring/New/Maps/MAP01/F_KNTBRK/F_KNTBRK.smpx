@@ -58,7 +58,7 @@
         <plugin_version v="402" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\mtg_upscaling\esrgangit\ESRGAN\results\Images\F_KNTBRK\[8x_NMKD-Superscale_150000_G]_F_KNTBRK_tile-00_DISP" />
+        <output_file_path v="" />
         <output_format v="12" />
         <input_count v="1" />
         <input_index_list v="0" />
@@ -181,7 +181,7 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="N:\mtg_upscaling\esrgangit\ESRGAN\results\Images\F_KNTBRK\[8x_NMKD-Superscale_150000_G]_F_KNTBRK_tile-00_AO" />
+        <output_file_path v="" />
         <output_format v="18" />
         <input_count v="1" />
         <input_index_list v="10" />
@@ -631,10 +631,10 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;92.93834686;133.73001099;16.00584793;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;92.93834686;185.49673462;11.27483082;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="3" />
-        <light_0 color="14803425" rotation="0.31705263;0.33831096;-0.16807136;0.86992836" />
+        <light_0 color="14803425" rotation="-0.40898129;-0.08906129;-0.05874708;0.90628421" />
         <light_1 color="2105386" rotation="-0.12333662;-0.55830216;-0.08437912;0.81606799" />
         <light_2 color="4136713" rotation="-0.12333662;0.55830216;0.08437912;0.81606799" />
         <cur_env_filename v="Studio" />

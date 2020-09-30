@@ -1,0 +1,153 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v3.1.31193554)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1455,
+            "type": "VEC3",
+            "max": [
+                -4079.999755859375,
+                256.0,
+                9824.0
+            ],
+            "min": [
+                -4592.0,
+                256.0,
+                8992.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1455,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                0.9999999403953552,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.9999999403953552,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1455,
+            "type": "VEC2",
+            "max": [
+                0.9904768466949463,
+                0.990291953086853
+            ],
+            "min": [
+                0.009523121640086174,
+                0.009708046913146973
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 7680,
+            "type": "SCALAR",
+            "max": [
+                1454.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 61920,
+            "uri": "medic01-1.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 17460,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 17460,
+            "byteLength": 17460,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 34920,
+            "byteLength": 11640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 46560,
+            "byteLength": 15360,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "F_KNTBRK_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "F_KNTBRK_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
