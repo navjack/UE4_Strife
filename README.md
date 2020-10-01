@@ -6,6 +6,8 @@ My main goal is just to have all the map geometry and textures and lighting done
 
 This will be RTX & DLSS 2.0 featured.
 
+# This is the last push i'll be putting on github. project too big and maintaining it VIA git is just no. i'll be working locally still though.
+
 ## Video Previews
 
 [Most Recent Video](https://www.youtube.com/watch?v=nCg0tfOpabU)
